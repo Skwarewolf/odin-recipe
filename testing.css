@@ -1,0 +1,47 @@
+html {
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: darkgreen;
+    font-size: 500%;
+}
+
+strong {
+    color: #B22222;
+    font-size: large;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style: upper-roman;
+    list-style-position: inside;
+}
+
+a {
+    display: inline-block;
+    border: 2px solid #B22222;
+    background-color: #98fb98;
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#shop-list {
+    color: #556B2F;
+}
+
+#shit {
+    color: #00bfff;
+}
+
+#travel {
+    color: #cd5c5c;
+}
+
+#favs {
+    color: #da70d6;
+}
