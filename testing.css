@@ -3,11 +3,20 @@ html {
     font-family: 'Courier New', Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1{
+h1 {
     color: darkgreen;
     font-size: 500%;
 }
 
+h2 {
+    color: darkgreen;
+    font-size: 325%;
+}
+
+p, ul, ol {
+    border: 2px solid #cd5c5c;
+    color: darkcyan;
+}
 strong {
     color: #B22222;
     font-size: large;
